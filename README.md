@@ -1,4 +1,4 @@
-![Screenshot (13849)](https://github.com/RushikeshBorude/OASIS-INFOBYTE-Web-Development-and-Designing-Intern-LEVEL-1-Task-2-portfolio/assets/86228914/fef52210-39aa-434e-8c5f-deaa45416e03)OASIS-INFOBYTE-Web-Development-and-Designing-Intern-LEVEL-1-Task-2-portfolio
+OASIS-INFOBYTE-Web-Development-and-Designing-Intern-LEVEL-1-Task-2-portfolio
 
 # here below live link view of this projects
 https://rushikeshborude.github.io/OASIS-INFOBYTE-Web-Development-and-Designing-Intern-LEVEL-1-Task-1-Landing-Page/
